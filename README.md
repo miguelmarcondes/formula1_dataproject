@@ -12,4 +12,4 @@ Delta files, tables, views and optimal implementation of Spark code.
 5. Raw: Scrip used to create the Raw (Bronze) layer of the project
 6. Set-up: Folder focused on mounting the different layers and storages located on ADL
 7. Trans: Transformation folder, focused on aggregating data and delivering it to the presentation (Gold) layer
-8. Utils:
+8. Utils: Clean up scripts
