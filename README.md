@@ -5,7 +5,7 @@ Delta files, tables, views and optimal implementation of Spark code.
 
 ## Project structure
 
-1. Analysis:
+1. Analysis: Folder used for the analysis part of the project, delivering insights based on the processed data
 2. Demo: Folder focused on working out examples and getting the synthax down for various functionalities in Spark, Databricks and Delta Lake
 3. Includes: Utility folder used for configuration and common functions
 4. Ingestion: Folder focused on ingesting data from the API, tipically from CSV and JSON files
